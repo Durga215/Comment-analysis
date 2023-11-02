@@ -1,0 +1,8 @@
+tensorflow
+numpy
+pandas
+flask
+gunicorn
+google-api-python-client
+transformers
+nltk
